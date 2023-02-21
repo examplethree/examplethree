@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=这里是例三的平行世界2.0;Welcome+here!&center=true&size=20&color=88aa00&weight">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=这里是例三的平行世界2.0;Welcome+here!&center=true&size=20&color=88aa00&font=Ma+Shan+Zheng">
   </a>
 </h1>
 
